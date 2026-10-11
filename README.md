@@ -115,7 +115,7 @@ reviews, and contributing to collaborative projects.
 </a>
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="www.linkedin.com/in/naman-gupta28">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
